@@ -1,0 +1,10 @@
+import sys
+ print(sys.executable)  
+C:\Users\Administrator\AppData\Local\Programs\Python\Python36\SCripts
+
+pip install numpy
+pip install opencv-python
+pip install  tqdm
+pip install matplotlib
+pip install  tensorflow  
+
